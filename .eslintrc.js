@@ -37,5 +37,8 @@ module.exports = {
     'arrow-parens': [0, { requireForBlockBody: false }],
     'jsx-quotes': 'off',
     'react/jsx-one-expression-per-line': 'off',
+    'linebreak-style': 0,
+    'object-curly-newline': 0,
+    'max-len': 0,
   },
 };
