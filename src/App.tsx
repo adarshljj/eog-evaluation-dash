@@ -59,7 +59,6 @@ const App = () => (
         <ApolloProvider client={client}>
           <Dashboard />
         </ApolloProvider>
-        {/* <NowWhat /> */}
         <ToastContainer />
       </Wrapper>
     </Provider>
